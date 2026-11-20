@@ -3,8 +3,8 @@ class PrivacyGate < Formula
 
   desc "Local gate that holds health, secret and personal data before it reaches an LLM"
   homepage "https://github.com/YauhenBichel/privacy-gate-llm"
-  url "https://files.pythonhosted.org/packages/80/18/2cc35713e86b6df04ffd7bc3c37bd5c84957ab78b84812df57c15611e3ab/molecare_privacy_gate-1.0.0.tar.gz"
-  sha256 "9bcf976a851fedc639375577567c735c6570b04e4a97a963296b9334a0bb3b83"
+  url "https://files.pythonhosted.org/packages/5f/fc/9d8c876e379356131ba9d9dd78cf5bcfd91766fea824e68500961f268103/molecare_privacy_gate-1.0.1.tar.gz"
+  sha256 "3eb0730e6248593677236c59944af169d4c36bc2a3242b10a628e3be2a704693"
   license "Apache-2.0"
 
   depends_on "python@3.14"
